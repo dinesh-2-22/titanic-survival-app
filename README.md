@@ -2,7 +2,7 @@
 
 This is a Machine Learning project that predicts whether a passenger would survive the Titanic disaster using Logistic Regression and Streamlit.
 
-👉 *Live App Link:* [Click Here(https://titanic-survival-app-uyrasjltmzgereka5aqqek.streamlit.app/)
+👉 *Live App Link:* [Click Here. (https://titanic-survival-app-uyrasjltmzgereka5aqqek.streamlit.app/)
 
 ---
 
